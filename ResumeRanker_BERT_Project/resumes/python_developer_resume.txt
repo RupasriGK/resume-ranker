@@ -1,0 +1,14 @@
+John Doe
+Software Developer
+
+Skills:
+- Python
+- Machine Learning
+- Natural Language Processing
+- BERT
+- Streamlit
+- Flask
+
+Experience:
+- 2 years working on AI and NLP projects.
+- Built resume ranking system using BERT models.

@@ -1,0 +1,12 @@
+Jane Smith
+Java Backend Developer
+
+Skills:
+- Java
+- Spring Boot
+- REST APIs
+- MySQL
+- Microservices
+
+Experience:
+- 3 years building scalable backend applications in Java.
